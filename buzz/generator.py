@@ -1,7 +1,7 @@
 from __future__ import print_function
 import random
 
-buzz = ('Sukiya', 'Recanto da Terra AKA Seo Gomes', 'Primão', 'O Alberto decide'
+buzz = ('Sukiya', 'Recanto da Terra AKA Seo Gomes', 'Primus', 'O Alberto decide'
         ,'continuous deployment', 'Outro', 'devops', 'geologist')
 adjectives = ('complete', 'modern', 'self-service', 'integrated', 'end-to-end')
 adverbs = ('remarkably', 'enormously', 'substantially', 'significantly',
