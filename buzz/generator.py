@@ -1,8 +1,8 @@
 from __future__ import print_function
 import random
 
-buzz = ('continuous testing', 'continuous integration','continuous deployment',
- 'continuous improvement', 'devops', 'geologist', 'FATEC is CETAF')
+buzz = ('Sukiya', 'Recanto da Terra AKA Seo Gomes', 'Primão', 'O Alberto decide'
+        ,'continuous deployment', 'Outro', 'devops', 'geologist')
 adjectives = ('complete', 'modern', 'self-service', 'integrated', 'end-to-end')
 adverbs = ('remarkably', 'enormously', 'substantially', 'significantly',
     'seriously')
